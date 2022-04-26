@@ -23,7 +23,7 @@ class WeatherProvider extends ChangeNotifier {
   var params = {
     'lat': '',
     'lon': '',
-    'appid': 'your_api_key',
+    'appid': '8f3cd72b9aa7f90ca7d26858c7253c81',
     'units': 'metric',
     'lang': 'es',
   };
